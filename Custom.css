@@ -1,0 +1,47 @@
+.calenderBackground{
+	background-color: #FFFFFF;
+	width: 620px;
+	height: 720px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.timings{
+	background-color: #FFFFFF;
+	height: 720px;
+}
+
+.events{
+	background-color: #ECECEC;
+	height: 720px;
+}
+
+.top-space{
+	height: 20px;
+}
+
+.time {
+	color: #5e5e5e;
+	font-size: 10px;
+	font-weight: bold;
+	margin-bottom: 15px;
+	text-align: right;
+}
+
+.small, p {
+	color: #b9b9b9;
+	font-size: 10px;
+	font-weight: normal;
+}
+
+.item{
+	color: #4B6EA9;
+	font: 13px Arial;
+	font-weight: bold;
+}
+
+.location{
+	color: #000000;
+	font: 8px Arial;
+	font-weight: bold;
+}
